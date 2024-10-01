@@ -1,3 +1,3 @@
-const corrId = '125000';
-console.log(`${corrId} is a sensitive info`);
+const corrId = '******';
+console.log(`${corrId} is a not sensitive info`);
 
